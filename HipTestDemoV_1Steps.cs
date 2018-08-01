@@ -11,7 +11,7 @@ namespace UnitTestProject1...................GitHub.Hiptest
         {
             ScenarioContext.Current.Pending();
         }
-        #sample updateaaaaa
+        #sample updat
         [Given(@"I want to login with the username of tester and password of test")]
         public void GivenIWantToLoginWithTheUsernameOfTesterAndPasswordOfTest()
         {
